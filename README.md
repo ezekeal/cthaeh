@@ -1,5 +1,7 @@
 # Next.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ezekeal/cthaeh.svg)](https://greenkeeper.io/)
+
 In this example we will be deploying a simple "Hello World" example with Next.js.
 
 ### Getting started with Next.js
